@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-My name is Jules, welcome to my GitHub account!
+My name is Jules, welcome to my GitHub profile!
 
 I'm currently studying computer science at the [University of Orléans](https://www.univ-orleans.fr/).
 
